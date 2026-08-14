@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
