@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
