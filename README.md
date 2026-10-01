@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
+| [1929-concatenation-of-array](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
