@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0338-counting-bits) |
 ## Bit Manipulation
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/1929-concatenation-of-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
