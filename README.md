@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2409-count-days-spent-together](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2409-count-days-spent-together](https://github.com/Vipin6357/https-github.com-Vipin6357-Solving-Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 ## String Matching
 |  |
 | ------- |
